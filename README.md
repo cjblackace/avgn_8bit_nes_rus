@@ -1,2 +1,3 @@
-# avgn_8bit_nes_rus
-Перевод игры Angry Video Game Nerd 8-bit для NES на русский язык.
+<p align="center"><img src="img/logo.png" alt="Angry Video Game Nerd 8-bit — русская версия" width="600"></p>
+
+<h1 align="center">The Angry Video Game Nerd 8-bit - NES (Русская версия 🇷🇺)</h1>
